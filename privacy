@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - EyeCandy</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; color: #333; }
+    h1, h2 { color: #16c4f7; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Effective Date: <strong>August 2025</strong></p>
+  <p>EyeCandy ("the App") values your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our application.</p>
+
+  <h2>Information We Collect</h2>
+  <ul>
+    <li><strong>Camera Access:</strong> Used to scan your image and apply visual effects. We do not collect or transmit camera data to external servers unless explicitly stated.</li>
+    <li><strong>Gallery Access:</strong> Used to allow you to import images from your device gallery into the App.</li>
+    <li><strong>Microphone/Audio:</strong> Used if you choose to apply audio-based features or effects. Audio data is not stored or transmitted outside your device.</li>
+    <li><strong>Storage Access:</strong> Required to save edited images into your gallery.</li>
+  </ul>
+
+  <h2>How We Use Your Information</h2>
+  <p>The data collected is used only for providing the App’s core features: scanning, editing, applying filters, and saving images. No personal data is sold or shared with third parties.</p>
+
+  <h2>Account & Data Deletion</h2>
+  <p>EyeCandy allows users to delete their accounts at any time:</p>
+  <ol>
+    <li>Go to <strong>Settings → Delete Account</strong>.</li>
+    <li>Enter your account password in the confirmation popup.</li>
+    <li>All personal data, images stored on our servers, and account information will be permanently deleted.</li>
+  </ol>
+
+  <h2>Third-Party Services</h2>
+  <p>The App may use third-party services (e.g., Firebase) for authentication and data storage. These services follow their own privacy policies.</p>
+
+  <h2>Contact Us</h2>
+  <p>If you have any questions about this Privacy Policy, contact us at: <a href="mailto:support@eyecandyapp.com">support@eyecandyapp.com</a></p>
+</body>
+</html>
